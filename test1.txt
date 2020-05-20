@@ -1,10 +1,3 @@
  Volume in drive C has no label.
  Volume Serial Number is F81D-D17B
-
- Directory of C:\Users\USER\Desktop\thambi
-
-20-May-20  01:08 PM    <DIR>          .
-20-May-20  01:08 PM    <DIR>          ..
-20-May-20  01:08 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  42,885,914,624 bytes free
+vvvada
